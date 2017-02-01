@@ -12,6 +12,6 @@ O jogo fornece uma palavra, retirada de um arquivo .txt, onde a mesma é selecio
 
   Exemplo: <br/>
   Palavra embaralhada ->  otenimciheonc
-  Usuário digita a paalvra -> _____________
+  Usuário digita a palavra -> _____________
   
   Em seguida é informado ao usuário se ele acertou ou não, juntamente com a palavra desembaralhada, e o usuário é pontuado, positivamente ou negativamente.
